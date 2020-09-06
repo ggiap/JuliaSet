@@ -133,7 +133,7 @@ cmake -DCMAKE_BUILD_TYPE=Release .. && make
 cd bin && ./JuliaSet
 ```
 
-![](Gif/JuliaSet.gif)
+![](Gif/Julia.gif)
 
 ## Controls
 
